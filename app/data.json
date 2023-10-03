@@ -1,0 +1,122 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "price": "2,300 KSH",
+    "description": "Set in the American South during the 1930s, this classic novel explores themes of racial injustice and moral growth through the eyes of young Scout Finch.",
+    "imageURL": [
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75"
+    ],
+    "inStock": "",
+    "inventory": ""
+  },
+  {
+    "title": "1984",
+    "price": "1,200 KSH",
+    "description": "A dystopian masterpiece, \"1984\" portrays a totalitarian society where individualism is suppressed, and the government monitors every aspect of citizens' lives.",
+    "imageURL": [
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fhat-1.png%3Fv%3D1690002833&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75"
+    ],
+    "inStock": "",
+    "inventory": ""
+  },
+  {
+    "title": "The Great Gatsby",
+    "price": "4,700 KSH",
+    "description": "In the Roaring Twenties, Jay Gatsby's lavish parties and enigmatic persona captivate Nick Carraway, who delves into the world of wealth, love, and illusion.",
+    "imageURL": [
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fbaby-cap-black.png%3Fv%3D1690002570&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75"
+    ],
+    "inStock": "",
+    "inventory": ""
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "price": "970 KSH",
+    "description": "Holden Caulfield's journey through New York City offers a glimpse into the mind of an adolescent struggling with the phoniness of the adult world.",
+    "imageURL": [
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Ft-shirt-spiral-1.png%3Fv%3D1690003571&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75"
+    ],
+    "inStock": "",
+    "inventory": ""
+  },
+  {
+    "title": "Pride and Prejudice",
+    "price": "3,200 KSH",
+    "description": "Austen's timeless novel follows the headstrong Elizabeth Bennet as she navigates societal expectations, love, and her own prejudices in 19th-century England.",
+    "imageURL": [
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fshoes-1.png%3Fv%3D1690004109&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75"
+    ],
+    "inStock": "",
+    "inventory": ""
+  },
+  {
+    "title": "The Hobbit",
+    "price": "1,100 KSH",
+    "description": "Join Bilbo Baggins on an unexpected adventure as he travels through Middle-earth to help a group of dwarves reclaim their homeland from a dragon.",
+    "imageURL": [
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fcup-black.png%3Fv%3D1690003088&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75"
+    ],
+    "inStock": "",
+    "inventory": ""
+  },
+  {
+    "title": "To the Lighthouse",
+    "price": "7,600 KSH",
+    "description": " Woolf's experimental narrative explores the inner lives of the Ramsay family and their visits to a lighthouse, delving into the complexities of human thought and emotion.",
+    "imageURL": [
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fcowboy-hat-black-1.png%3Fv%3D1690208765&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75"
+    ],
+    "inStock": "",
+    "inventory": ""
+  },
+  {
+    "title": "The Alchemist",
+    "price": "999 KSH",
+    "description": " Santiago's quest for treasure becomes a spiritual journey as he encounters mystical characters and learns the value of following one's dreams.",
+    "imageURL": [
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fhoodie-1.png%3Fv%3D1690003482&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75"
+    ],
+    "inStock": "",
+    "inventory": ""
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "price": "15,000 KSH",
+    "description": " In the mythical town of Macondo, the Buendía family experiences generations of love, tragedy, and magical realism in this acclaimed novel.",
+    "imageURL": [
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Ft-shirt-1.png%3Fv%3D1689798965&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75"
+    ],
+    "inStock": "",
+    "inventory": ""
+  },
+  {
+    "title": "The Hunger Games",
+    "price": "250 KSH",
+    "description": "Katniss Everdeen volunteers as tribute to save her sister and is thrust into a brutal televised fight to the death in a dystopian society known as Panem.",
+    "imageURL": [
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fpacifier-1.png%3Fv%3D1690003544&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75",
+      "https://demo.vercel.store/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0754%2F3727%2F7491%2Ffiles%2Fmug-1.png%3Fv%3D1690003527&w=640&q=75"
+    ],
+    "inStock": "",
+    "inventory": ""
+  }
+]
